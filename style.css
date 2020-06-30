@@ -1,0 +1,204 @@
+html {
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: lightgray;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .nav-item {
+      margin-left: 40px;
+  }
+  #main-container {
+      padding-left: 640px;
+      padding-right: 600px;
+  }
+  .macbook-air {
+      font-size: 70px;
+      color: rgb(29,29,31);
+      font-weight: 50px;
+      margin-top: -30px;
+  }
+  .mac-block {
+      padding-left: 100px;
+  }
+  .subtitle {
+      font-size: 25px;
+      color: rgb(29,29,31);
+      margin-top: -50px;
+      margin-left: 70px;
+  }
+  .nuevo {
+      color: tomato;
+      margin-left: 260px;
+      font-size: smaller;
+  }
+  .price {
+      margin-left: 150px;
+      margin-top: -20px;
+  }
+  .buy-btn {
+      margin-left: 150px;
+      background-color: rgb(0, 113, 227);
+      border: none;
+      color: white;
+      height: 30px;
+      width: 90px;
+      border-radius: 20px;
+      font-size: 16px;
+  }
+  .info-link {
+      text-decoration: none;
+      color: rgb(0, 113, 227);
+      margin-left: 140px;
+  }
+  .macbook-horizontal{
+      width: 850px;
+  }
+
+  #img-container{
+      padding-left: 500px;
+      margin-top: 100px;
+  }
+  .under-blocks{
+      margin-top: 110px;
+  }
+
+  .left-block {
+      float: left;
+      width: 500px;
+      height: 300px;
+      padding-top: 40px;
+      background-color: rgb(242, 242, 242);
+      margin-left: 450px;
+  }
+  .right-block {
+      float: right;
+      width: 500px;
+      height: 530px;
+      padding-top: 40px;
+      background-color: rgb(242, 242, 242);
+      margin-right: 400px;
+  }
+
+  .imgblock {
+      width: 440px;
+      height: 230px;
+  }
+  .blocktext{
+  text-align: center;
+  }
+  .rightblock-text{
+      padding-left: 60px;
+      padding-right: 50px;
+  }
+  .leftblock-text {
+      padding-left: 60px;
+      padding-right: 60px;
+  }
+  .ver-btn{
+      margin-top: -60px;
+      margin-left: 160px;
+      background-color: rgb(0, 113, 227);
+      border: none;
+      color: rgb(242, 242, 242);
+      height: 30px;
+      width: 50px;
+      border-radius: 20px;
+      font-size: 14px;
+  }
+  .blockleft-img{
+      margin-top: 10px;
+      margin-left: 1px;
+      width:500px;
+  }
+  .accesorios, .apple-trade {
+      font-size: 20px;
+  }
+  .aliados-title, .mac-title{
+      font-size: 40px;
+  }
+  .blockright-img{
+      width: 400px;
+      height: 180px;
+      margin-left: 50px;
+      margin-top: 20px;
+  }
+  .rightblock-text{
+      font-size: 15px;
+      margin-left: -30px;
+  }
+  .calcular-valor {
+      text-decoration: none;
+      color: rgb(0, 113, 227);
+      margin-left: 100px;
+  }
+
+  .infolink-final {
+    text-decoration: none;
+    color: rgb(0, 113, 227);
+    margin-left: 20px;
+  }
+  .final-block {
+      margin-top: 750px;
+      margin-left: 900px;
+  }
+  .finalblock-text{
+      margin-top: -10px;
+  }
+  .box {
+      width: 40px;
+      height: 40px;
+      margin-left: 40px;
+  }
+  .finalblock-subtitle{
+      margin-left: -20px;
+      margin-top: -15px;
+  }
+
+  .footer-link {
+      text-decoration: none;
+      color: rgb(81, 81, 84);
+  }
+  .copyright {
+      color: gray;
+  }
+  footer {
+      background-color: rgb(245, 245, 247);
+      width: 100%;
+      height: 80px;
+      padding-top: 10px;
+      padding-bottom: 30px;
+      padding-left: 200px;
+      margin-top: 30px;
+  }
+  .zoom {
+      width: 20px;
+      height: 20px;
+  }
+
+  .shopping {
+      width: 20px;
+      height: 20px;
+      margin-left: 80px;
+  }
+  .apple-logo {
+      margin-left: 150px;
+  }
+  .nav-item {
+      margin-left: 100px;
+  }
